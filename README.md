@@ -23,7 +23,7 @@ This is a basic calculator web app built using HTML, CSS, and JavaScript.
 
 ## 🔗 Live Demo
 
-Coming soon (you can host it on GitHub Pages!)
+https://jithin2222.github.io/JavaScript-Calculator-App/
 
 ---
 
